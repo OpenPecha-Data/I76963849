@@ -1,0 +1,88 @@
+id: I76963849
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T05:14:38.989265'
+last_modified: '2022-05-31T05:14:38.989274'
+parser: null
+source_metadata:
+  title: Milarepa Series
+  language: en
+  description: 'Texts by and about the great yogi Jetsün Milarepa (mi la ras pa, 1040–1123),
+    Tibet’s most famous poet-saint:'
+  volume:
+    fD6D2:
+      title: A Combined Guru Yoga for Marpa, Mila, and Gampopa
+      base_file: fD6D2.txt
+      order: 1
+      parent: Guru Yoga
+    fACAA:
+      title: 'A Drop of Moonlight: A Guru Yoga for Lord Mila'
+      base_file: fACAA.txt
+      order: 2
+      parent: Guru Yoga
+    fBE4E:
+      title: Guru Yoga of Jetsün Shepa Dorje
+      base_file: fBE4E.txt
+      order: 3
+      parent: Guru Yoga
+    fB558:
+      title: Guru Yoga of Milarepa Shepa Dorje for Daily Practice
+      base_file: fB558.txt
+      order: 4
+      parent: Guru Yoga
+    f0CAA:
+      title: 'Vajra Net: The Ancillary Preliminary and Concluding Practices for the
+        Three Drops, the Guru Yogas for Venerable Marpa, Mila, and Gampopa'
+      base_file: f0CAA.txt
+      order: 5
+      parent: Guru Yoga
+    f043B:
+      title: Homage to Milarepa
+      base_file: f043B.txt
+      order: 6
+      parent: Praise
+    f1212:
+      title: In Praise of Jetsün Mila Shepa Dorje
+      base_file: f1212.txt
+      order: 7
+      parent: Praise
+    fB1A7:
+      title: 'The Definitive Ascertainment of Tantra: In Praise of the Great Master
+        Milarepa'
+      base_file: fB1A7.txt
+      order: 8
+      parent: Praise
+    f59BB:
+      title: Supplication to Lord Mila Shepa Dorje
+      base_file: f59BB.txt
+      order: 9
+      parent: Prayers
+    f5231:
+      title: Supplication to Milarepa
+      base_file: f5231.txt
+      order: 10
+      parent: Prayers
+    f72E1:
+      title: 'The Melody of Complete Accomplishment: A Prayer to Those Praised as
+        Ornaments of the Practice Lineage'
+      base_file: f72E1.txt
+      order: 11
+      parent: Prayers
+    f0F30:
+      title: Jangphen Namkha Dzong
+      base_file: f0F30.txt
+      order: 12
+      parent: Songs
+    f9D5A:
+      title: Song of Prayer to Milarepa
+      base_file: f9D5A.txt
+      order: 13
+      parent: Songs
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
